@@ -1,0 +1,6 @@
+numpy
+ipywidgets
+nbinteract
+graphviz
+rdkit
+aizynthfinder
